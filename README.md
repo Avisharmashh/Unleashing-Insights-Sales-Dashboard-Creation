@@ -1,4 +1,4 @@
-# Unleashing-Insights-Sales-Dashboard-Creation
+# Unleashing-Insights-Sales-Dashboard-Creation(EXCEL)
 "I'm thrilled to share my latest project - a comprehensive sales dashboard in Excel!
 
 Objective: Uncover hidden trends and insights from sales data.
